@@ -1,0 +1,24 @@
+{
+  "name": "simpleMVC",
+  "version": "1.0.0",
+  "description": "The easiest front MVC framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fengweiqi/simpleMVC.git"
+  },
+  "keywords": [
+    "front",
+    "mvc",
+    "framework"
+  ],
+  "author": "fengweiqi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fengweiqi/simpleMVC/issues"
+  },
+  "homepage": "https://github.com/fengweiqi/simpleMVC"
+}
