@@ -11,5 +11,7 @@
       * index.js
     * profile
        * index.js
+ 
+链接与目录对应规则就是：mod_父目录_子目录=模块名称,以此类推。
 
 
